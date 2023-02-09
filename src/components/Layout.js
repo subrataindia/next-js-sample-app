@@ -1,8 +1,8 @@
 import React from "react";
 import layoutStyles from "@/styles/Layout.module.css";
 import Nav from "@/components/Nav";
-import Header from "./Header";
-import Meta from "./Meta";
+import Header from "@/components/Header";
+import Meta from "@/components/Meta";
 
 const Layout = ({ children }) => {
   return (
